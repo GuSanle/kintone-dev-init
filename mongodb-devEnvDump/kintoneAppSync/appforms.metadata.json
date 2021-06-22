@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"kintoneAppSync.appforms"}],"uuid":"0f649c8a38a640668524771ab7b2d5ff"}
